@@ -142,9 +142,9 @@ This project helps businesses:
 
 ---
 
-## Author
+## Authors
 
-**Charan**
+**Charan**,**RAGAV**,**jeevitha**
 
 ---
 
