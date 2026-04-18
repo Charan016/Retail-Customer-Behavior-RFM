@@ -1,0 +1,31 @@
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Word documents
+*.docx
+
+# Excel files if not needed
+#*.xlsx
+
+# csv files if not needed
+*.csv
+
+# Temporary / logs
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
