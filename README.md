@@ -144,7 +144,7 @@ This project helps businesses:
 
 ## Authors
 
-**Charan**,**Ragav**,**jeevitha**
+**Charan**,**Ragav**,**jeevitha**,**Pavithra**
 
 ---
 
